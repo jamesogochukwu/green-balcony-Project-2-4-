@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img"><defs>
+<linearGradient id="back" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#EAF3DF"/><stop offset="1" stop-color="#FFF7E8"/></linearGradient>
+<linearGradient id="green" x1="0" x2="1"><stop stop-color="#B5D7B2"/><stop offset="1" stop-color="#E6F1D6"/></linearGradient></defs><rect width="100%" height="100%" fill="url(#back)"/><circle cx="1030" cy="112" r="168" fill="#FFF4C3" opacity=".78"/><path d="M0 534 Q250 495 500 534 T1200 518 V680 H0" fill="#D0E4C6"/>
+<!-- Watering can -->
+<path d="M355 335 h300 l-35 215 h-227 z" fill="#5E9180"/><rect x="380" y="314" width="240" height="38" rx="16" fill="#7BAB94"/>
+<path d="M 640 370 Q 780 301 816 422 L 867 427" stroke="#5E9180" fill="none" stroke-width="39" stroke-linecap="round"/>
+<path d="M 417 324 Q 410 218 508 218 Q 605 218 601 325" stroke="#5E9180" stroke-width="28" fill="none"/>
+<g stroke="#72B2BD" stroke-width="11" stroke-linecap="round" opacity=".8"><path d="M865 422 l80 58"/><path d="M870 449 l71 91"/><path d="M898 454 l100 44"/></g>
+<!-- Trowel -->
+<path d="M 180 266 L 291 439" stroke="#B47A4C" stroke-width="30" stroke-linecap="round"/><path d="M283 431 Q 350 443 318 542 Q 237 520 258 459" fill="#A5AEA9"/>
+<!-- gloves -->
+<path d="M 820 533 q 0-120 26-120 q 24 0 16 68 l23-96 q19-31 33-3 l-15 101 l35-75 q23-15 30 8 l-29 89 q38-24 47-1 q11 25-50 58 l-22 40 h-89 z" fill="#E8BD75"/>
+</svg>
